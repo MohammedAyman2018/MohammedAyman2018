@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedayman2018" alt="mohammedayman2018" /></a> </p>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Web security**
 
 - 📝 I regularly write articles on [https://dev.to/mohammedayman2018](https://dev.to/mohammedayman2018)
 
 - 💬 Ask me about **Vue, Nuxt, JS**
 
-- 📫 How to reach me **emidobibo20@gmail.com**
+- 📫 How to reach me **contactmohamedayman@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Kj92SwHfYtBQF-2aPCE1cZufpZcF73Cm/view?usp=sharing](https://drive.google.com/file/d/1Kj92SwHfYtBQF-2aPCE1cZufpZcF73Cm/view?usp=sharing)
 
